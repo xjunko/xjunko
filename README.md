@@ -1,7 +1,9 @@
-<img src="https://raw.githubusercontent.com/xjunko/xjunko/refs/heads/master/profile-3d-contrib/profile-night-rainbow.svg"  width="390" align="left">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xjunko/xjunko/refs/heads/master/profile-3d-contrib/profile-night-rainbow.svg" width="500">
+</p>
 
 <a href="https://discord.com/users/xjunko"><img src="https://lets-all-love-miku.vercel.app/discord" align="right" width="390"></a>
-<!-- <img src="https://lets-all-love-miku.vercel.app/spotify" width="395" align="left"> -->
+<!--<img src="https://lets-all-love-miku.vercel.app/spotify" width="395" align="left">-->
 <!-- <br/> -->
 <!-- <br/> -->
 <!-- <hr> -->
